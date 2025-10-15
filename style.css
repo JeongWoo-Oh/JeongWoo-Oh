@@ -21,7 +21,8 @@ section {
   padding: 2rem;
   max-width: 1500px;
   margin: auto;
-  font-size: 17px;
+  font-size: 25px;
+  text-align: center;
 }
 
 footer {

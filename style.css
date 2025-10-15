@@ -5,6 +5,7 @@ body {
   margin: 0;
   padding: 0;
   line-height: 1.6;
+  font-size: 30px;
 }
 
 header {
@@ -16,10 +17,11 @@ header {
 }
 
 section {
-  text-align: center
+  text-align: left;
   padding: 2rem;
-  max-width: 700px;
+  max-width: 1500px;
   margin: auto;
+  font-size: 17px;
 }
 
 footer {
